@@ -1,0 +1,4 @@
+ui:
+   Browser: Chrome
+   headless: false
+   url: https://www.amazon.com/
